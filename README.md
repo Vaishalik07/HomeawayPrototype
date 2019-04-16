@@ -86,11 +86,6 @@ Trips Board
 ![Alt text](HomeAway/ScreenShots/Add_Propery_6.png?raw=true "Property Postings Page")
 
 
-### User Profile
-
-![Alt text](HomeAway/ScreenShots/User_Profile.png?raw=true "User Profile Page")
-
-
 
 ## Installation and Execution:
 
@@ -124,28 +119,4 @@ Just go on [official Node.js website](http://nodejs.org/) & grab the installer.
 Also, be sure to have `git` available in your PATH, `npm` might need it.
 
 ---
-
-## Front End 
-## Install
-
-    $ git clone https://github.com/mssrinivas/VacationRentals-2.0.git
-    $ cd VacationRentals-2.0/HomeAway/FrontEnd
-    $ npm install
-
-## Start & watch
-
-    $ npm start
-
-    
-## Back End 
-## Install
-
-    $ git clone https://github.com/mssrinivas/VacationRentals-2.0.git
-    $ cd VacationRentals-2.0/HomeAway/BackEnd
-    $ npm install
-
-## Start & watch
-
-    $ npm start
-
 
